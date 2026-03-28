@@ -1,0 +1,50 @@
+========= Welcome To Movie World!=========
+
+MovieID: 111
+Movie Name: Bahubali:The Beginning
+Genre Code: ACT
+Ratings: 8.0
+Views: 50M
+---------------------------------
+MovieID: 112
+Movie Name: Hit-3
+Genre Code: THR
+Ratings: 7.0
+Views: 20M
+---------------------------------
+MovieID: 113
+Movie Name: 3-Idiots
+Genre Code: COM
+Ratings: 8.4
+Views: 60M
+---------------------------------
+MovieID: 114
+Movie Name: Hi Nanna
+Genre Code: FAM
+Ratings: 8.2
+Views: 25M
+---------------------------------
+MovieID: 115
+Movie Name: Sita Ramam
+Genre Code: ROM
+Ratings: 8.6
+Views: 40M
+---------------------------------
+MovieID: 116
+Movie Name: Arundhati
+Genre Code: HOR
+Ratings: 7.4
+Views: 10M
+---------------------------------
+MovieID: 117
+Movie Name: Bajirao Mastani
+Genre Code: HIS
+Ratings: 7.2
+Views: 30M
+---------------------------------
+MovieID: 118
+Movie Name: RRR
+Genre Code: ACT
+Ratings: 8.5
+Views: 45M
+---------------------------------
